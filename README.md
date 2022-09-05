@@ -53,6 +53,6 @@
 <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
 <br>
 </div>
-<br>
+
 
 <!-- ![Snake animation](https://github.com/francielisabreu/francielisabreu/blob/output/github-contribution-grid-snake.svg) -->
