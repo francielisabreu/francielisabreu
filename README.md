@@ -19,12 +19,10 @@
 
 <br>
 <div style="display: flex; justify-content: space-between; align-items:space-between; width:30em ">
- <img width="120em" src="./assets/laboratoria-pb.png" />
- <img width="120em" src="./assets/impacta.png" />
- <img width="120em" src="./assets/etec-pj-pb.png" />
+ <img width="120em" src="./assets/laboratoria-pb.png"  title = "Laboratoria" />
+ <img width="120em" src="./assets/impacta.png" title = "Faculdade Impacta" />
+ <img width="120em" src="./assets/etec-pj-pb.png" title = "Etec Parque da Juventude"/>
 </div>
-
-<br>
 <br>
 
 ### MY SKILLS:
@@ -54,5 +52,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
 <br>
-
 </div>
+<br>
+
+<!-- ![Snake animation](https://github.com/francielisabreu/francielisabreu/blob/output/github-contribution-grid-snake.svg) -->
